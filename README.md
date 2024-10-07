@@ -1,6 +1,6 @@
 # text-to-json-converter
 
-## Bash Task 2
+## Bash Task 
 
 Company "Oboba" decided to use testing tool for their employees. But current tool has no json output that can be using for later data processing.
 

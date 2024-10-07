@@ -48,9 +48,9 @@ ok  2  expecting command prints some message (the same as above, bats way), 10ms
 3) Sripts should has name task2.sh
 4) Path to output.txt file should be as argument to the script.
 
-> ## If you need to use additional tools like ```jq``` please use it directly from this repository in your script: ```./jq```
+> ### If you need to use additional tools like ```jq``` please use it directly from this repository in your script: ```./jq```
 
-> ## Also you can use some specific tools in this approach
+> ### Also you can use some specific tools in this approach
 
 ## Definition of done.
 Developed bash script which automatically convert output.txt to json based on the example above.

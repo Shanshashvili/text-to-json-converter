@@ -52,5 +52,5 @@ ok  2  expecting command prints some message (the same as above, bats way), 10ms
 
 > ## Also you can use some specific tools in this approach
 
-# Definition of done.
+## Definition of done.
 Developed bash script which automatically convert output.txt to json based on the example above.
